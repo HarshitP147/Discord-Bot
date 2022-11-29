@@ -3,11 +3,14 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "repository": {
+        "url": "https://github.com/HarshitP147/Discord-Bot"
+    },
     "scripts": {
         "start": "nodemon index.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Harshit Pandit",
     "license": "ISC",
     "devDependencies": {
         "nodemon": "^2.0.20"
